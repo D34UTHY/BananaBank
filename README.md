@@ -1,3 +1,18 @@
 # BananaBank
-Sistema de API de um banco, com criação de conta, transações e autenticações, apenas o back-end, com parte web mas sem interface.
-Sistema desenvolvido utilizando Elixir, Phoenix e Ecto. Um sistema de APIs de um banco. O projeto foi feito com o intuito de aprender a linguagem elixir e suas tecnologias, foi um projeto demorado por ser uma linguagem em que eu ainda não tinha domínio, fiz o projeto para aprender melhor a lógica da linguagem e como usar seu framework. Aprendi muito durante o desenvolvimento dessa aplicação e compreendi o funcionamento da linguagem elixir. O projeto apresenta apenas o back-end, inclusive a lógica da parte web em funcionamento, porém, sem nenhum botão intuitivo para uso de usuários. Por ser uma linguagem funcional, recomendo testar o projeto pelo terminal, chamando diretamente as funções públicas do código para ver em melhor execução.
+
+To start your Phoenix server:
+
+  * Run `mix setup` to install and setup dependencies
+  * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
+
+Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+
+Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+
+## Learn more
+
+  * Official website: https://www.phoenixframework.org/
+  * Guides: https://hexdocs.pm/phoenix/overview.html
+  * Docs: https://hexdocs.pm/phoenix
+  * Forum: https://elixirforum.com/c/phoenix-forum
+  * Source: https://github.com/phoenixframework/phoenix
