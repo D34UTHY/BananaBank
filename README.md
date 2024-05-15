@@ -1,18 +1,1 @@
-# BananaBank
-
-To start your Phoenix server:
-
-  * Run `mix setup` to install and setup dependencies
-  * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
-
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
-
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
-
-## Learn more
-
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+Projeto desenvolvido utilizando a linguagem de programação elixir, seu framework phoenix e o toolkit Ecto. O projeto se trata de uma aplicação (apenas back-end) feita para simular a API de um banco, onde é possível criar contas, excluir e procurar por elas, também é possível realizar transações, tudo isso com as devidas verificações e autenticação. A linguagem elixir é funcional, desse modo, caso queira testar o projeto em sua própria máquina, recomendo testar tanto a parte web quanto no terminal, testando cada função isoladamente pois assim, terá maior compreensão do código e de suas funcionalidades. Esse projeto foi um dos mais demorados e desafiadores para mim pois, não tinha conhecimento nenhum sobre a linguagem e comecei a desenvolver esse projeto para aprendê-la na prática. Ao fim desse projeto posso garantir que compreendi bem o desenvolvimento da linguagem e sua sintaxe, assim como o uso de suas tecnologias relacionadas que ajudaram muito no processo.
